@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "request": "^2.65.0",
-    "xhr": "^2.1.0"
+    "xhr": "github:patreon/xhr#e9e2b4f8c9641ccc80da10038a94d20ed507aa73"
   },
   "devDependencies": {
     "tape": "^2.13.1",
